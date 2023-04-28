@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "101902096600",
+    "project_id": "tourguideapp-x",
+    "storage_bucket": "tourguideapp-x.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101902096600:android:60a698677d679fdc1a5fad",
+        "android_client_info": {
+          "package_name": "com.rohit.examples.android.bhopaldarshan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101902096600-06qvohfnqg7508lp1e0365sv3lviu2m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohit.examples.android.bhopaldarshan",
+            "certificate_hash": "79d423f0939cdbe48cde1de8632b0b95e82e4e31"
+          }
+        },
+        {
+          "client_id": "101902096600-72mveulf2dmrmb9jmk7p3fe8hotgp4v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK4-IkrBJEYOnyLbR38kGDcRVgH5xVwEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101902096600-72mveulf2dmrmb9jmk7p3fe8hotgp4v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

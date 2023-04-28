@@ -1,0 +1,240 @@
+<resources>
+    <string name="app_name">Wanderlust</string>
+    <string name="no_desc_available">No description available</string>
+    <string name="hotels">Hotels</string>
+    <string name="places">Places</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="shoppings">Shopping</string>
+    <string name="image">image</string>
+
+    <string name="hotel1">Marriott Mena House</string>
+    <string name="hotel2">JW Marriott Hotel</string>
+    <string name="hotel3">Renaissance Mirage City</string>
+    <string name="hotel4">Le Méridien Airport</string>
+    <string name="hotel5">Sheraton Casino</string>
+    <string name="hotel6">The St. Regis Almasa</string>
+    <string name="hotel7">The Westin Golf Resort</string>
+    <string name="hotel8">Sheraton Miramar Resort</string>
+    <string name="hotel9">Hurghada Marriott Beach</string>
+    <string name="hotel10">Sheraton Montazah</string>
+
+    <string name="hotel_price1">10,000 EGP</string>
+    <string name="hotel_price2">11,000 EGP</string>
+    <string name="hotel_price3">8,000 EGP</string>
+    <string name="hotel_price4">9,500 EGP</string>
+    <string name="hotel_price5">10,000 EGP</string>
+    <string name="hotel_price6">10,500 EGP</string>
+    <string name="hotel_price7">12,000 EGP</string>
+    <string name="hotel_price8">9,000 EGP</string>
+    <string name="hotel_price9">8,800 EGP</string>
+    <string name="hotel_price10">10,800 EGP</string>
+
+    <string name="h_phone1">0955 2661100</string>
+    <string name="h_phone2">0755 6661666</string>
+    <string name="h_phone3">0155 2767777</string>
+    <string name="h_phone4">0755 4700027</string>
+    <string name="h_phone5">095160 00911</string>
+    <string name="h_phone6">080499 22744</string>
+    <string name="h_phone7">0355 4053450</string>
+    <string name="h_phone8">0755 4027800</string>
+
+
+    <string name="five_star">5-star hotel</string>
+    <string name="four_star">4-star hotel</string>
+    <string name="three_star">3-star hotel</string>
+
+    <string name="hurghada_marriott">Hurghada Marriott Beach Resort</string>
+    <string name="red_sea">Red Sea El Gouna</string>
+    <string name="abbas">Abbas Al Akkad Corridor, Mirage city</string>
+    <string name="stay_inn_address">Cairo International Airport</string>
+    <string name="celestial_park_address">New Administrative Capital, Cairo Suez road Cairo</string>
+    <string name="kanha_palm_address">Hurghada Marriott Beach Resort</string>
+    <string name="rajhans_address">Red Sea El Gouna</string>
+    <string name="shubhinn_address">Cairo International Airport</string>
+
+    <string name="van_vihar">Colored-canyon</string>
+    <string name="bhojtal">Dahab-promenade</string>
+    <string name="taj_mahal_palace">Osla</string>
+    <string name="tribal_museum">Hurghada grand Aquarium</string>
+    <string name="sair_sapata">Landungspier Soma Bay</string>
+    <string name="kanha_fun_city">Church of George the great martyrs</string>
+    <string name="birla_mandir">Al Mina Mosque</string>
+    <string name="bhadbhada_dam">Nabq Reserve</string>
+
+    <string name="van_vihar_type">Sizable Parkland with wild animals</string>
+    <string name="bhojtal_type">Upper Lake</string>
+    <string name="taj_mahal_type">Architecture, history, and palace</string>
+    <string name="tribal_museum_type">Heritage museum and performance space</string>
+    <string name="sair_sapata_type">Sprawling entertainment area with views</string>
+    <string name="kanha_fun_type">Amusement park with waterslides and rides</string>
+    <string name="birla_mandir_type">Temple dedicated to Lakshmi and Vishnu</string>
+    <string name="bhadbhada_dam_type">Upper Lake creator</string>
+
+    <string name="van_vihar_phone">0755 2674278</string>
+    <string name="bhojtal_phone" />
+    <string name="taj_mahal_palace_phone" />
+    <string name="tribal_museum_phone">0755 2661948</string>
+    <string name="sair_sapata_phone">0755 4027100</string>
+    <string name="kanha_fun_city_phone">0755 2499464</string>
+    <string name="birla_mandir_phone">0930396 33192</string>
+
+
+    <string name="van_vihar_time">6:30am - 6:30pm</string>
+    <string name="bhojtal_time">6:00am - 7:00pm</string>
+    <string name="taj_mahal_palace_time">6:00am - 8:00pm</string>
+    <string name="tribal_museum_time">12:00pm - 7:00pm</string>
+    <string name="sair_sapata_time">9:00am - 10:00pm</string>
+    <string name="kanha_fun_city_time">10:00am - 7:00pm</string>
+    <string name="birla_mandir_time">6:00am - 12:00pm,\n04:00pm - 8:00pm</string>
+    <string name="bhadbhada_dam_time">8:00am - 6:00pm</string>
+
+    <string name="van_vihar_address">Van Vihar National Park, Shymala Hills, Bhopal, Madhya Pradesh</string>
+    <string name="bhojtal_address">Bhojtal, Madhya Pradesh</string>
+    <string name="taj_mahal_palace_address">Taj Mahal Palace, Kohefiza, Bhopal, Madhya Pradesh 462001</string>
+    <string name="tribal_museum_address">Madhya Pradesh Tribal Museum, Shyamla Hills Rd, Near State Museum, Shymala Hills, Bhopal, Madhya Pradesh</string>
+    <string name="sair_sapata_address">Sair Sapata Bhopal, Bhadbhada Road, Prempura, Bhopal, Madhya Pradesh</string>
+    <string name="kanha_fun_city_address">Kanha Fun City, Hoshangabad Rd, Indus Towne, Ratanpur Sadak, Bhopal, Madhya Pradesh</string>
+    <string name="birla_mandir_address">Birla Mandir, Arera Hills, Bhopal, Madhya Pradesh</string>
+    <string name="bhadbhada_dam_address">Bhadbhada Dam, Suraj Nagar, Bhopal, Madhya Pradesh</string>
+
+    <string name="aura_mall">Aura Mall</string>
+    <string name="gammmon_mall">3 pyramids shopping center</string>
+    <string name="capital_mall">Capital Mall</string>
+    <string name="db_mall">Aladin Egyption Arts Crafts</string>
+    <string name="people_mal">Cadeau-Mall</string>
+    <string name="aashima_mall1">Soho Square</string>
+    <string name="capitl_mall">Super Naturals</string>
+    <string name="aladin_mall">Akhenaton Gallery</string>
+    <string name="cadeau_mall">Genena-City</string>
+    <string name="aashima_mall">Aashima Mall</string>
+
+    <string name="aura_mall_phone">0755 4034362</string>
+    <string name="gammmon_mall_phone">0755 2570363</string>
+    <string name="capital_mall_phone">0755 6680021</string>
+    <string name="db_mall_phone" />
+    <string name="people_mall_phone">1800 270 0080</string>
+    <string name="aashima_mall_phone">0755 4053555</string>"
+
+    <string name="aura_mall_time">10:00am - 11:30pm</string>
+    <string name="gammmon_mall_time">10:30am - 9:30pm</string>
+    <string name="capital_mall_time">10:00am - 11:00pm</string>
+    <string name="db_mall_time">10:30am - 11:00pm</string>
+    <string name="people_mall_time">9:00am - 9:00pm</string>
+    <string name="aashima_mall_time">11:00am - 11:55pm</string>
+
+    <string name="aura_mall_addr">Arera Colony</string>
+    <string name="gammmon_mall_addr">New Market</string>
+    <string name="capital_mall_addr">Misrod</string>
+    <string name="db_mall_addr">Maharana Pratap Nagar</string>
+    <string name="people_mall_addr">Bhanpur</string>
+    <string name="aashima_mall_addr">Bagmugaliya</string>
+
+    <string name="aura_mall_address">Aura Mall, E-8, Trilanga Main Rd, Gulmohar, Arera Colony, Madhya Pradesh</string>
+    <string name="gammmon_mall_address">Gammon India Mall, New Market, Tulsi Nagar, Tulsi Nagar, Madhya Pradesh</string>
+    <string name="capital_mall_address">Capital Mall, Hoshangabad Rd, Misrod, Madhya Pradesh</string>
+    <string name="db_mall_address">DB City Mall, Zone-I, Maharana Pratap Nagar, Madhya Pradesh</string>
+    <string name="people_mall_address">People\'s Mall, Bhopal, Madhya Pradesh</string>
+    <string name="aashima_mall_address">Aashima Mall, Hoshangabad Road, Danish Nagar, Bagmugaliya, Bhopal, Madhya Pradesh</string>
+
+    <string name="kuchina">Al-Basha Complex Restaurant</string>
+    <string name="momo_cafe">Momo Cafe</string>
+    <string name="rest1">Ballba</string>
+    <string name="rest2">Barakat Al Waha Restaurant</string>
+    <string name="rest3">Euphoria Dahab Restaurant</string>
+    <string name="rest4">Dakshin Restaurant</string>
+    <string name="rest5">Greek club restaurant</string>
+    <string name="rest6">Kwanzaa Restaurant and Café</string>
+    <string name="rest7">Winds n Waves</string>
+    <string name="rest8">Dakshin Restaurant</string>
+
+    <string name="indian">Turkey</string>
+    <string name="italian">Italian</string>
+    <string name="france">France</string>
+    <string name="cafe">Cafe</string>
+    <string name="chinese">Chinese</string>
+    <string name="egypt">Egyptian</string>
+
+    <string name="kuchina_phone">099930 91077</string>
+    <string name="momo_cafe_phone">0755 3096240</string>
+    <string name="mango_tree_phone">09993091077</string>
+    <string name="crystal_dew_phone">0755 6680166</string>
+    <string name="wind_wave_phone">0755 2661523</string>
+    <string name="dakshin_resto_phone">097130 20502</string>
+
+    <string name="kuchina_time">12:00pm - 11:00pm</string>
+    <string name="momo_cafe_time">6:30am - 11:30pm</string>
+    <string name="mango_tree_time">7:00am - 11:00pm</string>
+    <string name="crystal_dew_time" />
+    <string name="wind_wave_time">07:45am - 11:00pm</string>
+    <string name="dakshin_resto_time" />
+
+
+    <string name="kuchina_address">La Kuchina, Shymala Hills, Bhopal, Madhya Pradesh</string>
+    <string name="momo_cafe_address">Momo Cafe, DB City Mall, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh</string>
+    <string name="mango_tree_address">Under the Mango Tree, 157, Shymala Hills, Bhopal, Madhya Pradesh 462013</string>
+    <string name="crystal_dew_address">Crystal Dew, 2nd Floor, 201, Above INOX, C21 Mall, Hoshangabad Road, Bhopal, Madhya Pradesh</string>
+    <string name="wind_wave_address">Winds n Waves, Near Cafe Coffee day, Lake View Road, Shymala Hills, Bhopal, Madhya Pradesh</string>
+    <string name="dakshin_resto_address">Dakshin Restaurant, Shop no 11 and 12, Krishna Vihar, near Aura mall, Gulmohar Colony, Shahpura, Bhopal, Madhya Pradesh</string>
+
+    <string name="christmas_carnival">Christmas Carnival</string>
+    <string name="chess_tour">Bhopal Chess GM Chess Tournament</string>
+    <string name="workshop">International Life in Space Workshop</string>
+    <string name="fashion_show">Sparkling Kids - Fashion show for KIDS</string>
+    <string name="selfie_contest">Mansarovar Sanskriti Selfie Contest</string>
+    <string name="bhopal_club_meet">Bhopal Toastmasters Club Meet #11</string>
+
+    <string name="christmas_carnival_date">14 Dec</string>
+    <string name="chess_tour_date">21 Dec-28 Dec</string>
+    <string name="workshop_date">23 Dec</string>
+    <string name="fashion_show_date">25 Dec</string>
+    <string name="selfie_contest_date">29 Dec-03 Jan 2019</string>
+    <string name="bhopal_club_meet_date">30 Dec</string>
+
+    <string name="christmas_carnival_time">9am - 12pm</string>
+    <string name="chess_tour_time">8am</string>
+    <string name="workshop_time">11:00am - 12:00pm</string>
+    <string name="fashion_show_time">5pm - 10pm</string>
+    <string name="selfie_contest_time">9am</string>
+    <string name="bhopal_club_meet_time">10:45am - 12:45pm</string>
+
+    <string name="christmas_carnival_place">NRI Global Discovery School</string>
+    <string name="chess_tour_place">Hotel Kanta Shravan Palace</string>
+    <string name="workshop_place">Regional Science Center</string>
+    <string name="fashion_show_place">Capital Mall</string>
+    <string name="selfie_contest_place">Mansarovar Group of\nInstitutions</string>
+    <string name="bhopal_club_meet_place">Dylogg Coworking</string>
+
+    <string name="christmas_carnival_url">https://www.eventbrite.com/e/christmas-carnival-tickets-53427168098</string>
+    <string name="chess_tour_url">http://aicf.in/event/bhopal-international-gm-chess-tournament-181046-mp-2018/</string>
+    <string name="workshop_url">https://www.townscript.com/e/international-life-in-space-workshop-112410?prS=listingseS%3Dtopicpage</string>
+    <string name="fashion_show_url">https://allevents.in/bhopal/sparkling-kids-a-unique-fashion-show-for-kids/20003558221041</string>
+    <string name="selfie_contest_url">https://www.evensi.com/mansarovar-sanskriti-selfie-contest-grp-colony-bhopal-sehore-madhya-pradesh-462001-india/281708223</string>
+    <string name="bhopal_club_meet_url">https://allevents.in/bhopal/bhopal-toastmasters-club-meet-11/80009386286928</string>
+
+    <string name="no_phone">Phone number not found.</string>
+    <string name="no_website">Website not found.</string>
+    <string name="no_location">Unable to locate on the maps.</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Montes nascetur ridiculus mus mauris. Venenatis tellus in metus vulputate eu scelerisque. Urna duis convallis tellus id interdum.\n\nSagittis id consectetur purus ut faucibus pulvinar elementum integer. Eu mi bibendum neque egestas congue quisque egestas diam. Facilisi cras fermentum odio eu feugiat pretium. Sed tempus urna et pharetra massa. Semper quis lectus nulla at volutpat diam ut venenatis tellus. Mauris pharetra et ultrices neque ornare aenean.</string>
+    <string name="about">About</string>
+    <string name="dot_separator">\u2022</string>
+    <string name="title_activity_bottom_navigation">BottomNavigation</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_tourist_places">Find amazing tourist places around you.</string>
+    <string name="hint_places">More than 50 amazing places in your area</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="wanderlust">Wanderlust</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

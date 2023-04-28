@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hotelImgID">
+        <item>@drawable/hotel1</item>
+        <item>@drawable/hotel2</item>
+        <item>@drawable/hotel3</item>
+        <item>@drawable/hotel4</item>
+        <item>@drawable/hotel5</item>
+        <item>@drawable/hotel6</item>
+        <item>@drawable/hotel7</item>
+        <item>@drawable/hotel8</item>
+        <item>@drawable/hotel9</item>
+        <item>@drawable/hotel10</item>
+    </string-array>
+
+    <string-array name="hotelName">
+        <item>@string/hotel1</item>
+        <item>@string/hotel2</item>
+        <item>@string/hotel3</item>
+        <item>@string/hotel4</item>
+        <item>@string/hotel5</item>
+        <item>@string/hotel6</item>
+        <item>@string/hotel7</item>
+        <item>@string/hotel8</item>
+        <item>@string/hotel9</item>
+        <item>@string/hotel10</item>
+    </string-array>
+
+    <string-array name="hotelPrice">
+        <item>@string/hotel_price1</item>
+        <item>@string/hotel_price2</item>
+        <item>@string/hotel_price3</item>
+        <item>@string/hotel_price4</item>
+        <item>@string/hotel_price5</item>
+        <item>@string/hotel_price6</item>
+        <item>@string/hotel_price7</item>
+        <item>@string/hotel_price8</item>
+        <item>@string/hotel_price9</item>
+        <item>@string/hotel_price10</item>
+    </string-array>
+
+    <string-array name="hotelRating">
+        <item>4.2 (6,546)</item>
+        <item>4.5 (5,646)</item>
+        <item>4.3 (7,346)</item>
+        <item>4.6 (3,563)</item>
+        <item>4.1 (6,746)</item>
+        <item>4.0 (7,376)</item>
+        <item>4.5 (3,546)</item>
+        <item>4.4 (4,743)</item>
+        <item>3.9 (6,923)</item>
+        <item>3.3 (2,813)</item>
+    </string-array>
+
+    <string-array name="hotelType">
+        <item>@string/five_star</item>
+        <item>@string/four_star</item>
+        <item>@string/five_star</item>
+        <item>@string/three_star</item>
+        <item>@string/four_star</item>
+        <item>@string/three_star</item>
+        <item>@string/three_star</item>
+        <item>@string/four_star</item>
+        <item>@string/four_star</item>
+        <item>@string/five_star</item>
+    </string-array>
+
+    <string-array name="hotelPhone">
+        <item>@string/h_phone1</item>
+        <item>@string/h_phone2</item>
+        <item>@string/h_phone3</item>
+        <item>@string/h_phone4</item>
+        <item>@string/h_phone5</item>
+        <item>@string/h_phone6</item>
+        <item>@string/h_phone7</item>
+        <item>@string/h_phone8</item>
+        <item>@string/h_phone2</item>
+        <item>@string/h_phone3</item>
+    </string-array>
+
+    <string-array name="hotelAddress">
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+        <item>@string/abbas</item>
+        <item>@string/stay_inn_address</item>
+        <item>@string/celestial_park_address</item>
+        <item>@string/kanha_palm_address</item>
+        <item>@string/rajhans_address</item>
+        <item>@string/shubhinn_address</item>
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+    </string-array>
+
+
+
+
+    <string-array name="placeImageId">
+        <item>@drawable/place1</item>
+        <item>@drawable/place2</item>
+        <item>@drawable/place3</item>
+        <item>@drawable/place4</item>
+        <item>@drawable/place5</item>
+        <item>@drawable/place6</item>
+        <item>@drawable/place7</item>
+        <item>@drawable/place8</item>
+        <item>@drawable/place9</item>
+        <item>@drawable/place10</item>
+    </string-array>
+
+    <string-array name="placeName">
+        <item>@string/van_vihar</item>
+        <item>@string/bhojtal</item>
+        <item>@string/taj_mahal_palace</item>
+        <item>@string/tribal_museum</item>
+        <item>@string/sair_sapata</item>
+        <item>@string/kanha_fun_city</item>
+        <item>@string/birla_mandir</item>
+        <item>@string/bhadbhada_dam</item>
+        <item>@string/sair_sapata</item>
+        <item>@string/bhojtal</item>
+    </string-array>
+
+    <string-array name="placeRating">
+        <item>4.2 (6,546)</item>
+        <item>4.5 (5,646)</item>
+        <item>4.3 (7,346)</item>
+        <item>4.6 (3,563)</item>
+        <item>4.1 (6,746)</item>
+        <item>4.0 (7,376)</item>
+        <item>4.5 (3,546)</item>
+        <item>4.0 (4,743)</item>
+        <item>4.2 (6,546)</item>
+        <item>4.5 (5,646)</item>
+    </string-array>
+
+    <string-array name="placeType">
+        <item>@string/van_vihar_type</item>
+        <item>@string/bhojtal_type</item>
+        <item>@string/taj_mahal_type</item>
+        <item>@string/tribal_museum_type</item>
+        <item>@string/sair_sapata_type</item>
+        <item>@string/kanha_fun_type</item>
+        <item>@string/birla_mandir_type</item>
+        <item>@string/bhadbhada_dam_type</item>
+        <item>@string/van_vihar_type</item>
+        <item>@string/bhojtal_type</item>
+    </string-array>
+
+    <string-array name="placePhone">
+        <item>@string/van_vihar_phone</item>
+        <item>@string/bhojtal_phone</item>
+        <item>@string/taj_mahal_palace_phone</item>
+        <item>@string/tribal_museum_phone</item>
+        <item>@string/sair_sapata_phone</item>
+        <item>@string/kanha_fun_city_phone</item>
+        <item>@string/birla_mandir_phone</item>
+        <item>@string/bhojtal_phone</item>
+        <item>@string/van_vihar_phone</item>
+        <item>@string/bhojtal_phone</item>
+    </string-array>
+
+    <string-array name="placeTime">
+        <item>@string/van_vihar_time</item>
+        <item>@string/bhojtal_time</item>
+        <item>@string/taj_mahal_palace_time</item>
+        <item>@string/tribal_museum_time</item>
+        <item>@string/sair_sapata_time</item>
+        <item>@string/kanha_fun_city_time</item>
+        <item>@string/birla_mandir_time</item>
+        <item>@string/bhadbhada_dam_time</item>
+        <item>@string/van_vihar_time</item>
+        <item>@string/bhojtal_time</item>
+    </string-array>
+
+    <string-array name="placeAddress">
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+        <item>@string/abbas</item>
+        <item>@string/stay_inn_address</item>
+        <item>@string/celestial_park_address</item>
+        <item>@string/kanha_palm_address</item>
+        <item>@string/rajhans_address</item>
+        <item>@string/shubhinn_address</item>
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+    </string-array>
+
+
+
+
+    <string-array name="shopImgId">
+        <item>@drawable/shop1</item>
+        <item>@drawable/shop2</item>
+        <item>@drawable/shop3</item>
+        <item>@drawable/shop4</item>
+        <item>@drawable/shop5</item>
+        <item>@drawable/shop6</item>
+        <item>@drawable/shop7</item>
+        <item>@drawable/shop8</item>
+        <item>@drawable/shop9</item>
+        <item>@drawable/shop1</item>
+    </string-array>
+
+    <string-array name="shopName">
+        <item>@string/aura_mall</item>
+        <item>@string/gammmon_mall</item>
+        <item>@string/capital_mall</item>
+        <item>@string/db_mall</item>
+        <item>@string/people_mal</item>
+        <item>@string/aashima_mall</item>
+        <item>@string/aashima_mall1</item>
+        <item>@string/capitl_mall</item>
+        <item>@string/aladin_mall</item>
+        <item>@string/aashima_mall</item>
+    </string-array>
+
+    <string-array name="shopRating">
+        <item>4.2 (6,546)</item>
+        <item>4.5 (5,646)</item>
+        <item>4.3 (7,346)</item>
+        <item>4.6 (3,563)</item>
+        <item>4.1 (6,746)</item>
+        <item>4.0 (7,376)</item>
+        <item>4.5 (3,546)</item>
+        <item>4.0 (4,743)</item>
+        <item>4.2 (6,546)</item>
+        <item>4.5 (5,646)</item>
+    </string-array>
+
+    <string-array name="shopPlace">
+        <item>@string/van_vihar_type</item>
+        <item>@string/bhojtal_type</item>
+        <item>@string/taj_mahal_type</item>
+        <item>@string/tribal_museum_type</item>
+        <item>@string/sair_sapata_type</item>
+        <item>@string/kanha_fun_type</item>
+        <item>@string/birla_mandir_type</item>
+        <item>@string/bhadbhada_dam_type</item>
+        <item>@string/van_vihar_type</item>
+        <item>@string/bhojtal_type</item>
+    </string-array>
+
+    <string-array name="shopPhone">
+        <item>@string/aura_mall_phone</item>
+        <item>@string/gammmon_mall_phone</item>
+        <item>@string/capital_mall_phone</item>
+        <item>@string/db_mall_phone</item>
+        <item>@string/people_mall_phone</item>
+        <item>@string/aashima_mall_phone</item>
+        <item>@string/aura_mall_phone</item>
+        <item>@string/gammmon_mall_phone</item>
+        <item>@string/capital_mall_phone</item>
+        <item>@string/db_mall_phone</item>
+    </string-array>
+
+    <string-array name="shopTime">
+        <item>@string/aura_mall_time</item>
+        <item>@string/gammmon_mall_time</item>
+        <item>@string/capital_mall_time</item>
+        <item>@string/db_mall_time</item>
+        <item>@string/people_mall_time</item>
+        <item>@string/aashima_mall_time</item>
+        <item>@string/aura_mall_time</item>
+        <item>@string/gammmon_mall_time</item>
+        <item>@string/capital_mall_time</item>
+        <item>@string/db_mall_time</item>
+    </string-array>
+
+    <string-array name="shopAddress">
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+        <item>@string/abbas</item>
+        <item>@string/stay_inn_address</item>
+        <item>@string/celestial_park_address</item>
+        <item>@string/kanha_palm_address</item>
+        <item>@string/rajhans_address</item>
+        <item>@string/shubhinn_address</item>
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+    </string-array>
+
+
+
+
+    <string-array name="restoImgId">
+        <item>@drawable/resto1</item>
+        <item>@drawable/resto2</item>
+        <item>@drawable/resto3</item>
+        <item>@drawable/resto4</item>
+        <item>@drawable/resto5</item>
+        <item>@drawable/resto6</item>
+        <item>@drawable/resto7</item>
+        <item>@drawable/resto1</item>
+        <item>@drawable/resto9</item>
+        <item>@drawable/resto2</item>
+    </string-array>
+
+    <string-array name="restoName">
+        <item>@string/kuchina</item>
+        <item>@string/momo_cafe</item>
+        <item>@string/rest1</item>
+        <item>@string/rest2</item>
+        <item>@string/rest3</item>
+        <item>@string/rest4</item>
+        <item>@string/rest5</item>
+        <item>@string/rest6</item>
+        <item>@string/rest7</item>
+        <item>@string/rest8</item>
+    </string-array>
+
+    <string-array name="restoRating">
+        <item>4.2 (6,546)</item>
+        <item>4.5 (5,646)</item>
+        <item>3.3 (7,346)</item>
+        <item>4.6 (3,563)</item>
+        <item>4.1 (6,746)</item>
+        <item>3.0 (7,376)</item>
+        <item>4.5 (3,546)</item>
+        <item>3.0 (4,743)</item>
+        <item>4.2 (6,546)</item>
+        <item>2.5 (5,646)</item>
+    </string-array>
+
+    <string-array name="restoType">
+        <item>@string/italian</item>
+        <item>@string/cafe</item>
+        <item>@string/france</item>
+        <item>@string/chinese</item>
+        <item>@string/france</item>
+        <item>@string/indian</item>
+        <item>@string/egypt</item>
+        <item>@string/indian</item>
+        <item>@string/france</item>
+        <item>@string/egypt</item>
+    </string-array>
+
+    <string-array name="restoPhone">
+        <item>@string/aura_mall_phone</item>
+        <item>@string/gammmon_mall_phone</item>
+        <item>@string/capital_mall_phone</item>
+        <item>@string/db_mall_phone</item>
+        <item>@string/people_mall_phone</item>
+        <item>@string/aashima_mall_phone</item>
+        <item>@string/aura_mall_phone</item>
+        <item>@string/gammmon_mall_phone</item>
+        <item>@string/capital_mall_phone</item>
+        <item>@string/db_mall_phone</item>
+    </string-array>
+
+    <string-array name="restoTime">
+        <item>@string/kuchina_time</item>
+        <item>@string/momo_cafe_time</item>
+        <item>@string/mango_tree_time</item>
+        <item>@string/crystal_dew_time</item>
+        <item>@string/wind_wave_time</item>
+        <item>@string/dakshin_resto_time</item>
+        <item>@string/kuchina_time</item>
+        <item>@string/momo_cafe_time</item>
+        <item>@string/mango_tree_time</item>
+        <item>@string/crystal_dew_time</item>
+    </string-array>
+
+    <string-array name="restoAddress">
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+        <item>@string/abbas</item>
+        <item>@string/stay_inn_address</item>
+        <item>@string/celestial_park_address</item>
+        <item>@string/kanha_palm_address</item>
+        <item>@string/rajhans_address</item>
+        <item>@string/shubhinn_address</item>
+        <item>@string/hurghada_marriott</item>
+        <item>@string/red_sea</item>
+    </string-array>
+
+
+</resources>

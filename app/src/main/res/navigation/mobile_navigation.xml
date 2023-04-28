@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_hotel">
+
+    <fragment
+        android:id="@+id/navigation_hotel"
+        android:name="com.rohit.examples.android.bhopaldarshan.Fragment.HotelFragment"
+        android:label="Hotel"
+        tools:layout="@layout/x_hotel_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_place"
+        android:name="com.rohit.examples.android.bhopaldarshan.Fragment.PlaceFragment"
+        android:label="Place"
+        tools:layout="@layout/x_place_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_restaurant"
+        android:name="com.rohit.examples.android.bhopaldarshan.Fragment.RestaurantFragment"
+        android:label="Restaurant"
+        tools:layout="@layout/x_restaurant_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_shopping"
+        android:name="com.rohit.examples.android.bhopaldarshan.Fragment.ShopFragment"
+        android:label="Shopping"
+        tools:layout="@layout/x_shop_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="com.rohit.examples.android.bhopaldarshan.Fragment.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/x_profile_fragment" />
+
+
+</navigation>
