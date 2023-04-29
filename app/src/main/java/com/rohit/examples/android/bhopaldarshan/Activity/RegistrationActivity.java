@@ -3,7 +3,9 @@ package com.rohit.examples.android.bhopaldarshan.Activity;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.widget.ImageButton;
@@ -20,6 +22,7 @@ import com.rohit.examples.android.bhopaldarshan.R;
 public class RegistrationActivity extends AppCompatActivity {
     TextInputEditText etRegEmail;
     TextInputEditText etRegPassword;
+    TextInputEditText etRegName;
     TextView tvLoginHere;
     ImageButton btnRegister;
 
@@ -32,6 +35,7 @@ public class RegistrationActivity extends AppCompatActivity {
 
         etRegEmail = findViewById(R.id.email_field);
         etRegPassword = findViewById(R.id.password_field);
+        etRegName = findViewById(R.id.name_field);
         tvLoginHere = findViewById(R.id.textView_register);
         btnRegister = findViewById(R.id.register_button);
 
@@ -49,6 +53,7 @@ public class RegistrationActivity extends AppCompatActivity {
     private void createUser(){
         String email = etRegEmail.getText().toString();
         String password = etRegPassword.getText().toString();
+        String name = etRegName.getText().toString();
 
         if (TextUtils.isEmpty(email)){
             etRegEmail.setError("Email cannot be empty");
@@ -57,11 +62,14 @@ public class RegistrationActivity extends AppCompatActivity {
             etRegPassword.setError("Password cannot be empty");
             etRegPassword.requestFocus();
         }else{
+
             mAuth.createUserWithEmailAndPassword(email,password)
                     .addOnCompleteListener(new OnCompleteListener<AuthResult>() {
                 @Override
                 public void onComplete(@NonNull Task<AuthResult> task) {
                     if (task.isSuccessful()){
+
+                        sharedPreferences(name,email);
                         Toast.makeText(RegistrationActivity.this,
                                 "User registered successfully", Toast.LENGTH_SHORT).show();
                         startActivity(new Intent(RegistrationActivity.this, LoginActivity.class));
@@ -72,6 +80,16 @@ public class RegistrationActivity extends AppCompatActivity {
                 }
             });
         }
+    }
+
+
+    public void sharedPreferences(String name, String email) {
+
+        SharedPreferences sharedPref = getSharedPreferences("MY_PREFS", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = sharedPref.edit();
+        editor.putString("EMAIL_KEY", email);
+        editor.putString("NAME_KEY", name);
+        editor.apply();
     }
 }
 
